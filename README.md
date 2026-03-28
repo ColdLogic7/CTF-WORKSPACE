@@ -39,7 +39,7 @@ I categorize my findings by discipline. Inside each folder, you'll find `.md` fi
 
 ## 🛠️ Toolkit
 The gear I usually bring into the trenches:
-* **OS:** Kali Linux / Parrot OS
+* **OS:** Kali Linux
 * **Shell:** Zsh / Oh-My-Zsh
 * **Go-to Tools:** `pwntools`, `Burp Suite`, `CyberChef`, `nmap`, and `gobuster`.
 
