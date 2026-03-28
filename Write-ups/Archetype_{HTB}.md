@@ -35,7 +35,7 @@ smb: \> get prod.dtsConfig (get is used to transfer it on my machine)
 - Password for MySQL: `M3g4c0rp123`
     
 - User-ID: `ARCHETYPE\sql_svc`
-- 
+
 ## Interact with Database
 Googled "Impacket and MSSQL interactive script" and found `mssqlclient.py`.
 
