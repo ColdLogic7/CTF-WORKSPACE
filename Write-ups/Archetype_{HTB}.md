@@ -1,3 +1,5 @@
+# Archetype HTB
+
 ## Enumerating Services
 
 command: `nmap -sC -sV -p 1-1000 [Target-IP] > nmap.txt`
